@@ -68,19 +68,19 @@ console.log(unko2.aaa());
 
 //console.log(document.getElementsByTagName('button')[0]);
 document.getElementsByTagName('button')[0].addEventListener('click', () =>{
-     window.alert('a')
+     window.alert('おはよう')
 });
 document.getElementsByTagName('button')[1].addEventListener('click', () =>{
-     window.alert('i')
+     window.alert('こんにちは')
 });
 document.getElementsByTagName('button')[2].addEventListener('click', () =>{
-     window.alert('u')
+     window.alert('こんばんは')
 });
 document.getElementsByTagName('button')[3].addEventListener('click', () =>{
-     window.alert('e')
+     window.alert('またあした')
 });
 document.getElementsByTagName('button')[4].addEventListener('click', () =>{
-     window.alert('o')
+     window.alert('Error...')
 });
 
 
